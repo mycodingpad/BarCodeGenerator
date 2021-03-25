@@ -1,0 +1,2 @@
+# BarCodeGenerator
+Application generate Barcode 
